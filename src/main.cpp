@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <ArduinoOTA.h>
 
-const char* ssid = "iPhone van Juul";
-const char* password = "abcd1234efg";
+const char* ssid = "PEPLINK_C896";
+const char* password = "ugentracing";
 
 void setup() {
     Serial.begin(115200);
